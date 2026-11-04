@@ -1,0 +1,34 @@
+
+  Definir_Cor_LED(Verde)
+  Avançar(velocidade=50, tempo=2s)
+  
+
+  Definir_Cor_LED(Azul)
+  Girar_Esquerda_Eixo(angulo=90)
+  
+  Definir_Cor_LED(Verde)
+  Avançar(velocidade=50, tempo=2s)
+  
+  Definir_Cor_LED(Amarelo)
+  Girar_Direita_Eixo(angulo=90)
+  
+  Definir_Cor_LED(Verde)
+  Avançar(velocidade=50, tempo=2s)
+  
+  Definir_Cor_LED(Vermelho)
+  Recuar(velocidade=50, tempo=2s)
+  
+  Definir_Cor_LED(Amarelo)
+  Girar_Direita_Eixo(angulo=90)
+  
+  Definir_Cor_LED(Verde)
+  Avançar(velocidade=50, tempo=2s)
+
+  Definir_Cor_LED(Amarelo)
+  Girar_Direita_Eixo(angulo=90)
+  
+  Definir_Cor_LED(Verde)
+  Avançar(velocidade=50, tempo=2s)
+  
+  Definir_Cor_LED(Amarelo)
+  Girar_Direita_Eixo(angulo=90)
